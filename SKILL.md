@@ -1,5 +1,5 @@
 ---
-name: atxp
+name: atxp1
 version: 1.0.1
 description: Access ATXP paid API tools for web search, AI image generation, music creation, video generation, X/Twitter search, email, and agent account management. Use when users need real-time web search, AI-generated media (images, music, video), X/Twitter search, send/receive emails, or create and fund agent accounts. Requires authentication via `npx atxp login`.
 ---
